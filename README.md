@@ -30,8 +30,11 @@
 
 ---------------------
 
-[![HitCount](http://hits.dwyl.com/YASHBRO/YASHBRO.svg)](http://hits.dwyl.com/YASHBRO/YASHBRO)
 
+
+##### Visiter count: 
+
+<a href="https://www.freecounterstat.com" title="html code for visitor counter"><img width="65px" src="https://counter11.stat.ovh/private/freecounterstat.php?c=x2npg19pwpjz5e7ggnuejrwl9677afr9" border="5" title="html code for visitor counter" alt="visitor counter"></a>
 
 
 [instagram]: https://www.instagram.com/yash__joglekar
