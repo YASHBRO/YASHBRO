@@ -1,6 +1,6 @@
 # Hi there, I'm [YASH](https://github.com/YASHBRO)
 <p align-"center">
-<img class="centrer" src="Bitmoji (Hii).png" width="150px" alt="Hiiii"> 
+<img class="centrer" src="https://sdk.bitmoji.com/render/panel/2af24209-ea90-4912-9223-4c54c650559a-23c927d9-4799-4bc6-9129-0d51a8a995de-v1.png?transparent=1&palette=1" width="150px" alt="Hiiii"> 
 </p>
 
 
@@ -9,10 +9,10 @@
 ### About me:
 
 #### I'm a Student, Programmer and Developer!
-- I’m currently learning and practicing AI
-- Like to participate in competitive coding contests
-- 2020 Goals: To master AI/ML/DL and develop usefull projects using AI
-- Fun fact: Love listening to music(pop,edm,acoustic)
+- I’m currently learning and practicing AI 🤖
+- Like to participate in competitive coding contests ⌨
+- 2020 Goals: To master AI/ML/DL and develop usefull projects using AI 😄
+- Fun fact: Love listening to music(pop,edm,acoustic) 🎵
 <br />
 
 ---------------------
