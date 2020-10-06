@@ -32,7 +32,8 @@
 
 
 
-##### Visiter [![HitCount](http://hits.dwyl.com/YASHBRO/YASHBRO.svg)](http://hits.dwyl.com/YASHBRO/YASHBRO)
+### Visitors
+[![VisitCount](http://hits.dwyl.com/YASHBRO/YASHBRO.svg)](http://hits.dwyl.com/YASHBRO/YASHBRO)
 
 
 [instagram]: https://www.instagram.com/yash__joglekar
