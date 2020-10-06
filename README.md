@@ -1,9 +1,12 @@
-# Hi there, I'm YASH <img align="right" src="Bitmoji (Hii).png" width="150px" alt="Hiiii">
+# Hi there, I'm YASH 
+<p align-"center">
+<img class="centrer" src="Bitmoji (Hii).png" width="150px" alt="Hiiii"> 
+</p>
 
 
 <br/>
 
-## About me:
+### About me:
 
 #### I'm a Student, Programmer and Developer!
 - I’m currently learning and practicing AI
