@@ -36,7 +36,7 @@
 
 ### Visitors
 
-<a href="https://www.freecounterstat.com" title="free web counter"><img src="https://counter11.stat.ovh/private/freecounterstat.php?c=a71qujnhsddaw19zqddxxpqjuqrncq95" border="0" title="free web counter" alt="free web counter"></a>
+<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1MjM0Nw==' border='0' alt='Yash's visit counter' width="65px"></a>
 
 [instagram]: https://www.instagram.com/yash__joglekar
 [linkedin]: https://www.linkedin.com/in/yash-joglekar-08a4161b4/
