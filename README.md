@@ -36,7 +36,7 @@
 
 ### Visitors
 
-<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1MjM0Nw==' border='0' alt='Yash's visit counter' width="65px"></a>
+<div align='left'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1MjM0Nw==' border='0' alt='Yash's visit counter' width="65px"></a>
 
 [instagram]: https://www.instagram.com/yash__joglekar
 [linkedin]: https://www.linkedin.com/in/yash-joglekar-08a4161b4/
