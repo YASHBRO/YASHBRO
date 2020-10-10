@@ -35,7 +35,8 @@
 
 
 ### Visitors
-[![VisitCount](http://hits.dwyl.com/YASHBRO/YASHBRO.svg)](http://hits.dwyl.com/YASHBRO/YASHBRO)
+
+<img src="https://counter11.stat.ovh/private/freecounterstat.php?c=a71qujnhsddaw19zqddxxpqjuqrncq95" alt="Yash's visitor counter" width="75px">
 
 
 [instagram]: https://www.instagram.com/yash__joglekar
