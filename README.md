@@ -23,7 +23,7 @@
 
 <br/>
 
-#### Connect with me 🤝 :
+### Connect with me 🤝 :
 [<img align="left" alt="Yash's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >][linkedin]
 [<img align="left" alt="Yash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" >][instagram]
 [<img align="left" alt="Yash's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" >][whatsapp]
@@ -34,7 +34,7 @@
 
 
 
-### Visitors
+### Visitors:
 
 <div align='left'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1MjM0Nw==' border='0' alt='Yash's visit counter' width="65px"></a>
 
