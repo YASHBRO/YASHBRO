@@ -25,11 +25,11 @@
 
 ### Connect with me 🤝 :
 [<img align="left" alt="Yash's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >]([linkedin] "My LinkedIn profile")
-[<img align="left" alt="Yash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" >]([instagram] "My Instagram profile")
-[<img align="left" alt="Yash's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" >]([whatsapp] "My Whatsapp number")
-[<img align="left" alt="Yash's Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" >]([snapchat] "My Snapchat profile")
+[<img align="left" alt="Yash's Instagram" width="26px" src="https://img.icons8.com/ios-glyphs/120/000000/instagram-new.png" >]([instagram] "My Instagram profile")
+[<img align="left" alt="Yash's Whatsapp" width="24px" src="https://img.icons8.com/pastel-glyph/128/000000/whatsapp--v2.png" >]([whatsapp] "My Whatsapp number")
+[<img align="left" alt="Yash's Snapchat" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" >]([snapchat] "My Snapchat profile")
 [<img align="left" alt="Yash's DEV Profile" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" >]([dev] "My Dev's profile")
-[<img alt="Yash's Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" >]([discord] "My Discord Server")
+[<img alt="Yash's Discord Server" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" >]([discord] "My Discord Server")
 
 ---------------------
 
