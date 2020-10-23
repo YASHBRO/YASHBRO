@@ -8,6 +8,8 @@
 
 ### About me:
 
+My interests lie in technology, creative design and areas that demand both. I constantly strive to channelize these aspects in ways that they complement each other. Even fields like Cyber Security, Artificial Intelligence fascinates me. Looking forward to build a career in those fields. 😄
+
 #### I'm a Student, Programmer and Developer!
 - I’m currently learning and practicing AI 🤖
 - Like to participate in competitive coding contests ⌨
