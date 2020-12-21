@@ -37,7 +37,7 @@
 
 
 ### Visitors
-[![VisitCount](http://hits.dwyl.com/YASHBRO/YASHBRO.svg)](http://hits.dwyl.com/YASHBRO/YASHBRO)
+<div align='left'><a><img src='http://www.hit-counts.com/counter.php?t=MTQ1MjM0Nw==' border='0' alt='Yash's visit counter' width="65px"></a>
 
 
 [instagram]: https://www.instagram.com/yash__joglekar
