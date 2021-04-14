@@ -36,9 +36,9 @@ My interests lie in technology, creative design and areas that demand both. I co
 
 
 
-### Visitors:
+### Visitors count:
 
-<div align='left'><a><img src='http://www.hit-counts.com/counter.php?t=MTQ1MjM0Nw==' border='0' alt='Yash's visit counter' width="65px"></a>
+<div align='left'><a><img src='http://www.hit-counts.com/counter.php?t=MTQ1MjM0Nw==' border='0' alt="Yash's visit counter" width="65px"></a>
 
 [instagram]: https://www.instagram.com/yash__joglekar "My Instagram profile"
 [linkedin]: https://www.linkedin.com/in/yash-joglekar-08a4161b4/ "My LinkedIn profile"
