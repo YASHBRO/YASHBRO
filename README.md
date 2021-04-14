@@ -25,12 +25,13 @@ My interests lie in technology, creative design and areas that demand both. I co
 <br/>
 
 ### Connect with me 🤝 :
-[<img align="left" alt="Yash's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >][linkedin]
-[<img align="left" alt="Yash's Instagram" width="26px" src="https://img.icons8.com/ios-glyphs/120/000000/instagram-new.png" >][instagram]
-[<img align="left" alt="Yash's Whatsapp" width="24px" src="https://img.icons8.com/pastel-glyph/128/000000/whatsapp--v2.png" >][whatsapp]
-[<img align="left" alt="Yash's Snapchat" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" >][snapchat]
-[<img align="left" alt="Yash's DEV Profile" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" >][dev]
-[<img alt="Yash's Discord Server" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" >][discord]
+[<img align="left" alt="Yash's LinkedIn" width="28px" src="https://img.icons8.com/ios-glyphs/120/4a90e2/linkedin.png" >][linkedin]
+[<img align="left" alt="Yash's LinkedIn" width="26px" src="https://img.icons8.com/ios-glyphs/120/4a90e2/twitter.png" >][twitter]
+[<img align="left" alt="Yash's LinkedIn" width="26px" src="https://img.icons8.com/ios-filled/150/4a90e2/facebook--v1.png" >][facebook] 
+[<img align="left" alt="Yash's Instagram" width="26px" src="https://img.icons8.com/ios-glyphs/120/4a90e2/instagram-new.png" >][instagram]
+[<img align="left" alt="Yash's Snapchat" width="25px" src="https://img.icons8.com/ios-filled/30/4a90e2/snapchat.png" >][snapchat]
+[<img align="left" alt="Yash's DEV Profile" width="28px" src="https://img.icons8.com/windows/128/4a90e2/dev.png" >][dev]
+[<img align="left" alt="Yash's Discord Server" width="28px" src="https://img.icons8.com/ios-filled/150/4a90e2/discord-logo.png" >][discord]
 
 ---------------------
 
@@ -41,8 +42,9 @@ My interests lie in technology, creative design and areas that demand both. I co
 <div align='left'><a><img src='http://www.hit-counts.com/counter.php?t=MTQ1MjM0Nw==' border='0' alt="Yash's visit counter" width="65px"></a>
 
 [instagram]: https://www.instagram.com/yash__joglekar "My Instagram profile"
+[twitter]: https://twitter.com/yash__joglekar "My twiiter account"
+[facebook]: https://www.facebook.com/yash.joglekar.1220 "My facebook profile"
 [linkedin]: https://www.linkedin.com/in/yash-joglekar-08a4161b4/ "My LinkedIn profile"
 [discord]: https://discord.gg/hUVNsxC "My Discord Server"
-[whatsapp]: https://wa.me/917587145654 "My Whatsapp number"
 [snapchat]: https://www.snapchat.com/add/yashjoglekar "My Snapchat profile"
 [dev]: https://dev.to/yashbro "My Dev's profile"
