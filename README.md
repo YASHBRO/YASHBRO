@@ -33,6 +33,10 @@ My interests lie in technology, creative design and areas that demand both. I co
 [<img align="left" alt="Yash's DEV Profile" width="28px" src="https://img.icons8.com/windows/128/4a90e2/dev.png" >][dev]
 [<img align="left" alt="Yash's Discord Server" width="28px" src="https://img.icons8.com/ios-filled/150/4a90e2/discord-logo.png" >][discord]
 
+
+<br/>
+
+
 ---------------------
 
 
