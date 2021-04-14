@@ -1,8 +1,7 @@
-# Hi there, I'm [YASH](https://github.com/YASHBRO)
-<p align-"center">
-<img class="centrer" src="https://sdk.bitmoji.com/render/panel/2af24209-ea90-4912-9223-4c54c650559a-23c927d9-4799-4bc6-9129-0d51a8a995de-v1.png?transparent=1&palette=1" width="150px" alt="Hiiii"> 
+# <h1 align="center"> Hi there, I'm [YASH](https://github.com/YASHBRO) </h1>
+<p align="center">
+<img align="center" src="https://sdk.bitmoji.com/render/panel/2af24209-ea90-4912-9223-4c54c650559a-23c927d9-4799-4bc6-9129-0d51a8a995de-v1.png?transparent=1&palette=1" width="150px" alt="Hiiii" /> 
 </p>
-
 
 <br/>
 
@@ -14,13 +13,20 @@ My interests lie in technology, creative design and areas that demand both. I co
 - I’m currently learning and practicing Web development 🌐
 - Like to participate in competitive coding contests and hackathons ⌨
 - 2021 Goals: To master AI/ML/DL and develop usefull projects using AI 😄
-<br />
+
+<br/>
 
 ---------------------
+
+<br/>
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YASHBRO&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Yash's github stats" />
 </p>
+
+<br/>
+
+--------------
 
 <br/>
 
@@ -33,17 +39,8 @@ My interests lie in technology, creative design and areas that demand both. I co
 [<img align="left" alt="Yash's DEV Profile" width="28px" src="https://img.icons8.com/windows/128/4a90e2/dev.png" >][dev]
 [<img align="left" alt="Yash's Discord Server" width="28px" src="https://img.icons8.com/ios-filled/150/4a90e2/discord-logo.png" >][discord]
 
-
 <br/>
 
-
----------------------
-
-
-
-### Visitors count:
-
-<div align='left'><a><img src='http://www.hit-counts.com/counter.php?t=MTQ1MjM0Nw==' border='0' alt="Yash's visit counter" width="65px"></a>
 
 [instagram]: https://www.instagram.com/yash__joglekar "My Instagram profile"
 [twitter]: https://twitter.com/yash__joglekar "My twiiter account"
