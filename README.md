@@ -13,7 +13,7 @@ My interests lie in technology, creative design and areas that demand both. I co
 - I’m currently learning and practicing Mobile development (Flutter) 📱
 - Like to participate in competitive coding contests and hackathons ⌨
 - 2021 Goals: To master AI/ML/DL and develop awesome projects using AI 😄
-- Love to play CSGO and GTA Online,lets roll on the streets of Los Santos together, I'll be waiting for your friend request (👇link to my social club and steam👇)
+- Love to play CSGO and GTA Online, lets roll on the streets of Los Santos together and defuse bombs in CSGO, I'll be waiting for your friend request (link to my [Rockstar][rockstar social club] & [Steam][steam] accounts)
 
 <br/>
 
