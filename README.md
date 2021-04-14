@@ -7,12 +7,19 @@
 
 ### About me:
 
-My interests lie in technology, creative design and areas that demand both. I constantly strive to channelize these aspects in ways that they complement each other. Even fields like Cyber Security, Artificial Intelligence fascinates me. Looking forward to build a career in those fields. 😄
+My interests lie in technology, creative design and areas that demand both. I constantly strive to channelize these aspects in ways that they complement each other. Even fields like Cyber Security, Artificial Intelligence fascinates me. Looking forward to build a career in those. 😄
 
 #### I'm a Student, Programmer and Developer!
-- I’m currently learning and practicing Web development 🌐
+- I’m currently learning and practicing Mobile development (Flutter) 📱
 - Like to participate in competitive coding contests and hackathons ⌨
-- 2021 Goals: To master AI/ML/DL and develop usefull projects using AI 😄
+- 2021 Goals: To master AI/ML/DL and develop awesome projects using AI 😄
+- Love to play CSGO and GTA Online,lets roll on the streets of Los Santos together, I'll be waiting for your friend request (👇link to my social club and steam👇)
+
+<br/>
+
+Have a project idea to work on togehter??
+
+Mail me [here <img alt="Yash's Gmail" width="17px" src="https://img.icons8.com/ios-filled/100/4a90e2/send-mass-email.png" >][gmail]
 
 <br/>
 
@@ -31,6 +38,7 @@ My interests lie in technology, creative design and areas that demand both. I co
 <br/>
 
 ### Connect with me 🤝 :
+[<img align="left" alt="Yash's Gmail" width="27px" src="https://img.icons8.com/ios-filled/100/4a90e2/send-mass-email.png" >][gmail]
 [<img align="left" alt="Yash's LinkedIn" width="28px" src="https://img.icons8.com/ios-glyphs/120/4a90e2/linkedin.png" >][linkedin]
 [<img align="left" alt="Yash's Twitter" width="26px" src="https://img.icons8.com/ios-glyphs/120/4a90e2/twitter.png" >][twitter]
 [<img align="left" alt="Yash's Facebook" width="26px" src="https://img.icons8.com/ios-filled/150/4a90e2/facebook--v1.png" >][facebook] 
@@ -44,6 +52,7 @@ My interests lie in technology, creative design and areas that demand both. I co
 <br/>
 
 
+[gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=yashjoglekar1220@gmail.com&su=Redirected%20from%20GitHub&body=Hii "Click to send an email"
 [instagram]: https://www.instagram.com/yash__joglekar "My Instagram profile"
 [twitter]: https://twitter.com/yash__joglekar "My twiiter account"
 [facebook]: https://www.facebook.com/yash.joglekar.1220 "My facebook profile"
