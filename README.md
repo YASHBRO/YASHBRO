@@ -21,23 +21,14 @@ Have a project idea to work on togehter??
 
 Mail me [here <img alt="Yash's Gmail" width="17px" src="https://img.icons8.com/ios-filled/100/4a90e2/send-mass-email.png" >][gmail]
 
-<br/>
-
----------------------
-
-<br/>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YASHBRO&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Yash's github stats" />
-</p>
-
-<br/>
 
 --------------
 
 <br/>
 
 ### Connect with me 🤝 :
+<br>
+
 [<img align="left" alt="Yash's Gmail" width="27px" src="https://img.icons8.com/ios-filled/100/4a90e2/send-mass-email.png" >][gmail]
 [<img align="left" alt="Yash's LinkedIn" width="28px" src="https://img.icons8.com/ios-glyphs/120/4a90e2/linkedin.png" >][linkedin]
 [<img align="left" alt="Yash's Twitter" width="26px" src="https://img.icons8.com/ios-glyphs/120/4a90e2/twitter.png" >][twitter]
@@ -48,6 +39,16 @@ Mail me [here <img alt="Yash's Gmail" width="17px" src="https://img.icons8.com/i
 [<img align="left" alt="Yash's Discord Server" width="28px" src="https://img.icons8.com/ios-filled/150/4a90e2/discord-logo.png" >][discord]
 [<img align="left" alt="Yash's Steam account" width="28px" src="https://img.icons8.com/ios-filled/150/4a90e2/steam-circled.png" >][steam]
 [<img align="left" alt="Yash's Rockstar social club profile" width="28px" src="https://img.icons8.com/ios-filled/150/4a90e2/rockstar-games.png" >][rockstar social club]
+
+<br/>
+
+---------------------
+
+<br/>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YASHBRO&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Yash's github stats" />
+</p>
 
 <br/>
 
