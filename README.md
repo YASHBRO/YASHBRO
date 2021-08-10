@@ -1,6 +1,6 @@
 # <h1 align="center"> Hi there, I'm [YASH](https://github.com/YASHBRO) </h1>
 <p align="center">
-<img align="center" src="https://sdk.bitmoji.com/render/panel/732eaa6e-2db0-48dc-b8d8-4484ec74e70f-0d713e74-485d-4890-9389-865e610ef7f8-v1.png?transparent=1&palette=1" width="150px" alt="Hiiii" /> 
+<img align="center" src="https://sdk.bitmoji.com/render/panel/732eaa6e-2db0-48dc-b8d8-4484ec74e70f-98b12ec1-0112-490f-8249-a51799d855be-v1.png?transparent=1&palette=1" width="150px" alt="Hiiii" /> 
 </p>
 
 <br/>
