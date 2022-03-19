@@ -33,12 +33,12 @@ Mail me [here <img alt="Yash's Gmail" width="17px" src="https://img.icons8.com/i
 [<img align="left" alt="Yash's LinkedIn" width="28px" src="https://img.icons8.com/ios-glyphs/120/4a90e2/linkedin.png" >][linkedin]
 [<img align="left" alt="Yash's Twitter" width="26px" src="https://img.icons8.com/ios-glyphs/120/4a90e2/twitter.png" >][twitter]
 [<img align="left" alt="Yash's Facebook" width="26px" src="https://img.icons8.com/ios-filled/150/4a90e2/facebook--v1.png" >][facebook] 
-[<img align="left" alt="Yash's Instagram" width="26px" src="https://img.icons8.com/ios-glyphs/120/4a90e2/instagram-new.png" >][instagram]
-[<img align="left" alt="Yash's Snapchat" width="25px" src="https://img.icons8.com/ios-filled/30/4a90e2/snapchat.png" >][snapchat]
-[<img align="left" alt="Yash's DEV Profile" width="28px" src="https://img.icons8.com/windows/128/4a90e2/dev.png" >][dev]
+<!-- [<img align="left" alt="Yash's Instagram" width="26px" src="https://img.icons8.com/ios-glyphs/120/4a90e2/instagram-new.png" >][instagram] -->
+<!-- [<img align="left" alt="Yash's Snapchat" width="25px" src="https://img.icons8.com/ios-filled/30/4a90e2/snapchat.png" >][snapchat] -->
+<!-- [<img align="left" alt="Yash's DEV Profile" width="28px" src="https://img.icons8.com/windows/128/4a90e2/dev.png" >][dev] -->
 [<img align="left" alt="Yash's Discord Server" width="28px" src="https://img.icons8.com/ios-filled/150/4a90e2/discord-logo.png" >][discord]
-[<img align="left" alt="Yash's Steam account" width="28px" src="https://img.icons8.com/ios-filled/150/4a90e2/steam-circled.png" >][steam]
-[<img align="left" alt="Yash's Rockstar social club profile" width="28px" src="https://img.icons8.com/ios-filled/150/4a90e2/rockstar-games.png" >][rockstar social club]
+<!-- [<img align="left" alt="Yash's Steam account" width="28px" src="https://img.icons8.com/ios-filled/150/4a90e2/steam-circled.png" >][steam] -->
+<!-- [<img align="left" alt="Yash's Rockstar social club profile" width="28px" src="https://img.icons8.com/ios-filled/150/4a90e2/rockstar-games.png" >][rockstar social club] -->
 
 <br/>
 
