@@ -12,8 +12,6 @@ My interests lie in technology, creative design and areas that demand both. I co
 #### I'm a Student, Programmer and Developer!
 - I’m currently learning and practicing Full-Stack development
 - Like to participate in competitive coding contests and hackathons ⌨
-- 2022 Goals: Land a descent internship and explore other domains 😄
-- Love to play CSGO and GTA Online, lets roll on the streets of Los Santos together and defuse bombs in CSGO, I'll be waiting for your friend request (link to my [Rockstar][rockstar social club] & [Steam][steam] accounts)
 
 <br/>
 
@@ -52,5 +50,3 @@ Mail me [here <img alt="Yash's Gmail" width="17px" src="https://img.icons8.com/i
 [linkedin]: https://www.linkedin.com/in/yash-joglekar-08a4161b4/ "My LinkedIn profile"
 [discord]: https://discord.gg/hUVNsxC "My Discord Server"
 [dev]: https://dev.to/yashbro "My Dev's profile"
-[steam]: https://steamcommunity.com/id/YASH_BRO/ "My steam account"
-[rockstar social club]: https://socialclub.rockstargames.com/member/YASH_BR0/ "My Rockstar social club profile"
