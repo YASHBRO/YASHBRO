@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/YASHBRO/YASHBRO/main/I%20am%20Yash.gif" align="center" style="width: 80%" />
+<img src="https://raw.githubusercontent.com/YASHBRO/YASHBRO/main/%F0%9F%91%8B%20Hello%2C%20World!%20.gif" align="center" style="width: 80%" />
 </div>
 
 <br/>
