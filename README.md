@@ -1,12 +1,10 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/YASHBRO/YASHBRO/main/I%20am%20Yash.gif" align="center" style="width: 75%" />
-</div>  
-  
+<img src="https://raw.githubusercontent.com/YASHBRO/YASHBRO/main/I%20am%20Yash.gif" align="center" style="width: 80%" />
+</div>
 
-# <div align="center">Hi 👋 I am Yash</div>  
-  
+<br/>
 
-### <div align="center">A full-time undergraduate student, competitive coder and a full-stack web developer 👨‍💻 working remotely as a react intern in a start-up 🚀</div>  
+### <div align="center" style="width: 75%">A full-time undergraduate student, competitive coder and a full-stack web developer 👨‍💻 working remotely as a react intern in a start-up 🚀</div>  
   
 
 - 🔭 I’m currently working on [Sing-in-Sync](https://github.com/YASHBRO/Sing-in-Sync).  
