@@ -54,12 +54,9 @@ Mail me [here <img alt="Yash's Gmail" width="17px" src="https://img.icons8.com/i
 
 
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=yashjoglekar1220@gmail.com&su=Redirected%20from%20GitHub&body=Hii "Click to send an email"
-[instagram]: https://www.instagram.com/yash__joglekar "My Instagram profile"
 [twitter]: https://twitter.com/yash__joglekar "My twiiter account"
-[facebook]: https://www.facebook.com/yash.joglekar.1220 "My facebook profile"
 [linkedin]: https://www.linkedin.com/in/yash-joglekar-08a4161b4/ "My LinkedIn profile"
 [discord]: https://discord.gg/hUVNsxC "My Discord Server"
-[snapchat]: https://www.snapchat.com/add/yashjoglekar "My Snapchat profile"
 [dev]: https://dev.to/yashbro "My Dev's profile"
 [steam]: https://steamcommunity.com/id/YASH_BRO/ "My steam account"
 [rockstar social club]: https://socialclub.rockstargames.com/member/YASH_BR0/ "My Rockstar social club profile"
