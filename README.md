@@ -10,9 +10,9 @@
 My interests lie in technology, creative design and areas that demand both. I constantly strive to channelize these aspects in ways that they complement each other. Even fields like Cyber Security, Artificial Intelligence fascinates me. Looking forward to build a career in those. 😄
 
 #### I'm a Student, Programmer and Developer!
-- I’m currently learning and practicing Mobile development (Flutter) 📱
+- I’m currently learning and practicing Full-Stack development
 - Like to participate in competitive coding contests and hackathons ⌨
-- 2021 Goals: To master AI/ML/DL and develop awesome projects using AI 😄
+- 2022 Goals: Land a descent internship and explore other domains 😄
 - Love to play CSGO and GTA Online, lets roll on the streets of Los Santos together and defuse bombs in CSGO, I'll be waiting for your friend request (link to my [Rockstar][rockstar social club] & [Steam][steam] accounts)
 
 <br/>
