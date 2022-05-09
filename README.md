@@ -39,7 +39,8 @@ Mail me [here <img alt="Yash's Gmail" width="17px" src="https://img.icons8.com/i
 <br/>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YASHBRO&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Yash's github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YASHBRO&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Yash's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YASHBRO&show_icons=true&theme=dark&locale=en&layout=compact" alt="Yash's github language stats" />
 </p>
 
 <br/>
