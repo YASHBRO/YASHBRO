@@ -19,6 +19,8 @@ Have a project idea to work on togehter??
 
 Mail me [here <img alt="Yash's Gmail" width="17px" src="https://img.icons8.com/ios-filled/100/4a90e2/send-mass-email.png" >][gmail]
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=YASHBRO&left_color=green&right_color=red)
+
 
 --------------
 
