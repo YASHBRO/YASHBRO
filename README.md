@@ -80,6 +80,9 @@
 
 ## Connect with me  
 <div align="center">
+ <a href="mailto:yashjoglekar1220+myghprofilepage@gmail.com?subject=From%20Github%20profile%20page&body=Hello,%0A" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/YASHBRO" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
