@@ -110,7 +110,9 @@
 
 
 ## Spotify Listening  
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=egu9dzy0oq7c71z677tbac3cn&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f" align="center" style="width: 100%" />  
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=egu9dzy0oq7c71z677tbac3cn&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f" align="center" style="width: 50%" />
+</div>
 
 <br/>  
 
