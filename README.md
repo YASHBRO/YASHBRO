@@ -7,7 +7,7 @@
 ### <div align="center" style="width: 75%">A full-time undergraduate student, competitive coder and a full-stack web developer 👨‍💻 working remotely as a react intern in a start-up 🚀</div>  
   
 
-- 🔭 I’m currently working on [Sing-in-Sync](https://github.com/YASHBRO/Sing-in-Sync).  
+- 🔭 I’m currently working on my full-stack skills.  
   
 
 - 🌱 I’m currently leaning towards cloud development.  
