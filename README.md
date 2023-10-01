@@ -4,19 +4,19 @@
 
 <br/>
 
-### <div align="center" style="width: 75%">A full-time undergraduate student, competitive coder and a full-stack web developer 👨‍💻 working remotely as a react intern in a start-up 🚀</div>  
+### <div align="center" style="width: 75%">A Computer Science undergraduate, competitive coder and full-stack web developer 👨‍💻 working remotely as a software developer intern in a start-up 🚀</div>  
   
 
-- 🔭 I’m currently working on my full-stack skills.  
+- 🔭 I’m working on my portfolio website and exploring new tech stacks.  
   
 
-- 🌱 I’m currently leaning towards cloud development.  
+- 🌱 My interest is leaning towards cloud development.
   
 
-- ❓ Ask me about anything related to MERN stack and python.  
+- ❓ Ask me about anything related to MERN stack and Python.  
   
 
-- ⚡ Fun fact: I use tabs over spaces.  
+- ⚡ Fun fact: I favour tabs over spaces.  
   
 
 <br/>  
